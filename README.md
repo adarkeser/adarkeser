@@ -37,7 +37,7 @@ Tech: `Flutter · MVVM · Firebase · Django Backend`
 - 💻 Love writing Flutter apps with **clean architecture** (`MVVM`, `Bloc`, `Riverpod`, `Provider`, `GetIt`)
 - 🍬 I love *Adventure Time*  
 - ✨ Always learning, always building
-- 🎹 Play piano & grind **League of Legends**. My Accounts: [Control](https://www.leagueofgraphs.com/summoner/tr/Control-KESER) · [Cobalt](https://www.leagueofgraphs.com/summoner/tr/Cobalt-0100)  
+- 🎹 Play piano & used to grind **League of Legends**. My Accounts: [Control](https://www.leagueofgraphs.com/summoner/tr/Control-KESER) · [Cobalt](https://www.leagueofgraphs.com/summoner/tr/Cobalt-0100)  
 
 <br>
 
