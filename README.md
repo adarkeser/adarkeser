@@ -35,7 +35,8 @@ Tech: `Flutter · MVVM · Firebase · Django Backend`
 ## ⚡ About Me
 - 🎓 CS student @ Özyeğin (GPA: **3.87**)  
 - 💻 Love writing Flutter apps with **clean architecture** (`MVVM`, `Bloc`, `Riverpod`, `Provider`, `GetIt`)
-- 🍬 I love *Adventure Time*  
+- 🍬 I love *Adventure Time*
+- 🎵 Favorite music bands: twenty one pilots & AJR  
 - ✨ Always learning, always building
 - 🎹 Play piano & used to grind **League of Legends**. My Accounts: [Control](https://www.leagueofgraphs.com/summoner/tr/Control-KESER) · [Cobalt](https://www.leagueofgraphs.com/summoner/tr/Cobalt-0100)  
 
