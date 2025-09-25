@@ -8,38 +8,40 @@ So far, I have **3 published apps** in the App Store & Play Store.
 
 <br>
 
-[![kanky-banner](https://github.com/user-attachments/assets/e3a9286b-1889-4968-ac6f-47f1913de35d)](https://kankyapp.com)  
+[![kanky-banner](https://github.com/user-attachments/assets/297f5955-1246-4ea2-8168-d6da8ca4e245)](https://kankyapp.com)  
 *The smartest exam prep companion for YKS/LGS/KPSS/ALES students.*  
 This is **the app I am most enthusiastic about.** it helps learners **retain knowledge with spaced repetition**, track progress, and study more effectively.  
 Tech: `Flutter · Bloc · Hive · Firebase`
-
-<img width="2500" alt="kanky-promo" src="https://github.com/user-attachments/assets/918cad4d-418b-4812-a700-35ef04ff3ba9" />
+<img width="3662" height="1434" alt="kanky-promo" src="https://github.com/user-attachments/assets/d0a2000f-88b5-4e9c-988f-09f4162aab2b" />
 
 
 ---
-[![gmis-gif](https://github.com/user-attachments/assets/7311c556-51d1-489b-ab77-ae4759774bb0)](https://app.gmis.com.tr/)
+![gmis-banner](https://github.com/user-attachments/assets/3d060398-87eb-457a-a4e3-231234d4eb00)
 *A powerful acoustic calculator with 30+ industry-standard calculations for engineers, architects, and students.*  
 Helps users perform precise acoustic measurements quickly and accurately on mobile.           
 Tech: `Flutter · MVVM · Provider`
-
-<img width="2500" alt="gmis-promo" src="https://github.com/user-attachments/assets/7bd40e0c-30ce-4548-bafc-4eb46deef376" />
+<img width="3662" height="1434" alt="gmis-promo" src="https://github.com/user-attachments/assets/ef073b4f-e7a1-437e-8711-f6d6b052504e" />
 
 ---
-[![aqualley-banner](https://github.com/user-attachments/assets/7ceb75f9-7d00-44d6-ac32-9b4626897194)](https://aqualley.net/)
+[![aqualley-banner](https://github.com/user-attachments/assets/2fa507e5-ee06-4cc1-b13d-e8dd65a09c6c)](https://aqualley.net/)
 *A smart water dispenser system.*  
 Users can buy subscriptions, scan QR codes to get water, and track their water consumption.  
 Tech: `Flutter · MVVM · Firebase · Django Backend`  
+<img width="3662" height="1434" alt="aqualley-promo" src="https://github.com/user-attachments/assets/3b6f2d08-3b02-46f6-b7b8-9d8f3260fca6" />
 
-<img width="2500" alt="aqualley-promo" src="https://github.com/user-attachments/assets/72704bb1-e779-4d02-8793-304d6a53d6fc" />
 
 ---
 
 ## ⚡ About Me
 - 🎓 CS student @ Özyeğin (GPA: **3.87**)  
-- 💻 Love writing Flutter apps with **clean architecture** (`MVVM`, `Bloc`, `Riverpod`, `Provider`, `GetIt`)  
-- 🎹 Play piano & grind **League of Legends**. My Accounts: [Control](https://www.leagueofgraphs.com/summoner/tr/Control-KESER) · [Cobalt](https://www.leagueofgraphs.com/summoner/tr/Cobalt-0100)  
+- 💻 Love writing Flutter apps with **clean architecture** (`MVVM`, `Bloc`, `Riverpod`, `Provider`, `GetIt`)
 - 🍬 I love *Adventure Time*  
 - ✨ Always learning, always building
+- 🎹 Play piano & grind **League of Legends**. My Accounts: [Control](https://www.leagueofgraphs.com/summoner/tr/Control-KESER) · [Cobalt](https://www.leagueofgraphs.com/summoner/tr/Cobalt-0100)  
+
+<br>
+
+![cobalt-challenger](https://github.com/user-attachments/assets/d296d753-559c-4d43-90bb-8f7bf89cf1c6)
 
 ---
 
